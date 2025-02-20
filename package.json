@@ -1,0 +1,23 @@
+{
+  "name": "simple-sql.js",
+  "version": "1.0.2",
+  "description": "a simple sql database",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "_david_",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "dependencies": {
+    "better-sqlite3": "^8.0.1",
+    "colors": "^1.4.0",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7",
+    "prompt-sync": "^4.2.0"
+  }
+}
